@@ -12,7 +12,7 @@ class Core_Library_Export_Factory
 				return new Core_Library_Export_CsvBuilder2();
 			case 'dta' :
 				return new Core_Library_Export_DtaBuilder();
-			case 'gss' ;
+			case 'gss' :
 				return new Core_Library_Export_GssBuilder();
 			case 'xls' :
 				return new Core_Library_Export_ExcelBuilder( 'xls');
