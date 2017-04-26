@@ -3,7 +3,7 @@ class Core_Library_Export_Factory
 	public static function getBuilderFor($sExtension = 'csv')
 	{
 		// force lowercase
-		$sExtension = $sExtension.toLowerCase();
+		$sExtension = strtolower ( $sExtension );
 
 		switch ($sExtension) {
 			case 'csv' :
