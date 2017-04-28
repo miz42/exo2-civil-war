@@ -6,6 +6,9 @@ function head()
 }
 
 function chest(){}
+{
+    echo "<body>Hi</body>\n";
+}
 function left_arm(){}
 function right_arm(){}
 function abdomen(){}
