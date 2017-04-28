@@ -6,7 +6,7 @@ function head()
 }
 
 function chest(){
-	echo "this is a chest" ; 
+	echo "this is a chest 2" ; 
 
 }
 function left_arm(){}
