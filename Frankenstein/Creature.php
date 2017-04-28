@@ -7,7 +7,7 @@ function head()
 
 function chest(){}
 {
-    echo "<body>Hi</body>\n";
+    echo "<body>Hooo</body>\n";
 }
 function left_arm(){}
 function right_arm(){}
