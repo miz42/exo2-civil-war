@@ -5,7 +5,10 @@ function head()
     echo "1 tête\n";
 }
 
-function chest(){}
+function chest(){
+	echo "this is a chest" ; 
+
+}
 function left_arm(){}
 function right_arm(){}
 function abdomen(){}
