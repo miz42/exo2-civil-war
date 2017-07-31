@@ -12,8 +12,13 @@ function chest()
 function left_arm(){}
 function right_arm(){}
 function abdomen(){}
-function left_leg(){}
-function right_leg(){}
+
+function left_leg(){
+	echo "jambe gauche";
+}
+function right_leg(){
+	echo "jambe droit";
+}
 
 function its_alive(){
 	head();
