@@ -8,10 +8,16 @@ function head()
 function chest(){
 	echo "1 chest";
 }
-function left_arm(){}
-function right_arm(){}
 function abdomen(){
 	echo "1 abdomen";
+}
+function left_arm()
+{
+	echo "Bras gauche\n";
+}
+function right_arm()
+{
+	echo "Bras droit\n";
 }
 
 function left_leg(){
