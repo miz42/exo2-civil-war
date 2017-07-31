@@ -19,8 +19,13 @@ function right_arm()
 function abdomen(){
 	echo "1 abdomen";
 }
-function left_leg(){}
-function right_leg(){}
+
+function left_leg(){
+	echo "jambe gauche";
+}
+function right_leg(){
+	echo "jambe droit";
+}
 
 function its_alive(){
 	head();
