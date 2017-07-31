@@ -6,8 +6,14 @@ function head()
 }
 
 function chest(){}
-function left_arm(){}
-function right_arm(){}
+function left_arm()
+{
+	echo "Bras gauche\n";
+}
+function right_arm()
+{
+	echo "Bras droit\n";
+}
 function abdomen(){}
 
 function left_leg(){
