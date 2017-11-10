@@ -2,7 +2,7 @@
 
 function head()
 {
-    echo "1 tête\n";
+    echo "1 tête à claque\n";
 }
 
 function chest(){}
