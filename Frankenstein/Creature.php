@@ -8,7 +8,9 @@ function head()
 function chest(){}
 function left_arm(){}
 function right_arm(){}
-function abdomen(){}
+function abdomen(){
+    echo "1 abdomen\n";
+}
 function left_leg(){}
 function right_leg(){}
 
