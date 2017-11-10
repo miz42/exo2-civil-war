@@ -21,7 +21,7 @@ class Core_Library_Export_Factory
 			case 'ods' :
 				return null;
 			default :
-				return null
+				return null;
 		}
 	}
 }
