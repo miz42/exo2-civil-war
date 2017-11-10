@@ -9,8 +9,12 @@ function chest(){}
 function left_arm(){}
 function right_arm(){}
 function abdomen(){}
-function left_leg(){}
-function right_leg(){}
+function left_leg(){
+	echo "left leg";
+}
+function right_leg(){
+	echo "right leg";
+}
 
 function its_alive(){
 	head();
